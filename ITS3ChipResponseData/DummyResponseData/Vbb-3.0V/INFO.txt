@@ -1,0 +1,1 @@
+Dummy chip response data, with 100% charge collection efficiency and no charge sharing
